@@ -1,0 +1,17 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Local IDE settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Local secrets and signing keys
+.env
+.env.*
+*.pfx
+*.p12
+*.keystore
